@@ -1,1 +1,1 @@
-Machine learning enables accurate classification of motion sensor data, differentiating various movements. This simple yet effective KNN-based model finds applications in human activity recognition and gesture control
+
